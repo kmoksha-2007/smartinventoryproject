@@ -1,0 +1,193 @@
+{
+  "products": [
+    {
+      "_id": "5894d3463bad68192e9a4646",
+      "name": "Logitech M331 Silent Wireless Mouse",
+      "sku": "LOG-M331-BLK",
+      "category": "Electronics",
+      "price": 1299,
+      "costPrice": 850,
+      "quantity": 18,
+      "minThreshold": 8,
+      "supplier": "Logitech Direct Tech",
+      "description": "Ergonomic 2.4GHz quiet optical mouse with 24-month battery life",
+      "createdAt": "2026-10-24T16:43:56.435Z",
+      "updatedAt": "2026-10-24T16:43:56.436Z"
+    },
+    {
+      "_id": "c97abf23d9850d1af9c7bbf4",
+      "name": "Dell 24\" IPS FHD Monitor (SE2422H)",
+      "sku": "DEL-MON-24",
+      "category": "Electronics",
+      "price": 8999,
+      "costPrice": 6800,
+      "quantity": 4,
+      "minThreshold": 5,
+      "supplier": "Dell India Wholesale",
+      "description": "1080p 75Hz monitor with slim bezels and AMD FreeSync",
+      "createdAt": "2026-10-24T15:43:56.436Z",
+      "updatedAt": "2026-10-24T16:43:56.436Z"
+    },
+    {
+      "_id": "74d547932bced2968797b9fe",
+      "name": "Braided USB-C Fast Charging Cable (2m)",
+      "sku": "CBL-USBC-2M",
+      "category": "Electronics",
+      "price": 349,
+      "costPrice": 120,
+      "quantity": 3,
+      "minThreshold": 10,
+      "supplier": "Anker Distributors",
+      "description": "100W PD nylon braided high speed charging and sync cable",
+      "createdAt": "2026-10-24T14:43:56.436Z",
+      "updatedAt": "2026-10-24T16:43:56.436Z"
+    },
+    {
+      "_id": "d14d0b64fbef61ebb28e5cf8",
+      "name": "Classmate Pulse Spiral Notebook (A4, 300 pgs)",
+      "sku": "NOTE-PULSE-300",
+      "category": "Stationery",
+      "price": 180,
+      "costPrice": 110,
+      "quantity": 45,
+      "minThreshold": 15,
+      "supplier": "ITC Paperboards Ltd",
+      "description": "Single ruled micro-perforated premium white pages",
+      "createdAt": "2026-10-24T13:43:56.436Z",
+      "updatedAt": "2026-10-24T16:43:56.436Z"
+    },
+    {
+      "_id": "63a8d8ababc4ce41be26638e",
+      "name": "Reynolds 045 Fine Ball Pens (Pack of 20)",
+      "sku": "PEN-REY-045",
+      "category": "Stationery",
+      "price": 200,
+      "costPrice": 130,
+      "quantity": 6,
+      "minThreshold": 12,
+      "supplier": "Reynolds Writing Instruments",
+      "description": "Classic laser-tip blue ink writing pens",
+      "createdAt": "2026-10-24T12:43:56.436Z",
+      "updatedAt": "2026-10-24T16:43:56.436Z"
+    },
+    {
+      "_id": "445eacd375af94de03312b0f",
+      "name": "Nescafe Classic Instant Coffee Jar (200g)",
+      "sku": "BEV-NES-200G",
+      "category": "Beverages",
+      "price": 495,
+      "costPrice": 380,
+      "quantity": 2,
+      "minThreshold": 6,
+      "supplier": "Nestle India Consumer Products",
+      "description": "100% pure natural robusta coffee roasted to perfection",
+      "createdAt": "2026-10-24T11:43:56.436Z",
+      "updatedAt": "2026-10-24T16:43:56.436Z"
+    },
+    {
+      "_id": "ab502fe2c63cd03a7abdc800",
+      "name": "Twinings English Breakfast Tea (100 Bags)",
+      "sku": "BEV-TWI-100T",
+      "category": "Beverages",
+      "price": 650,
+      "costPrice": 470,
+      "quantity": 14,
+      "minThreshold": 5,
+      "supplier": "Twinings Imports",
+      "description": "Rich and invigorating full-bodied black tea bags",
+      "createdAt": "2026-10-24T10:43:56.436Z",
+      "updatedAt": "2026-10-24T16:43:56.436Z"
+    },
+    {
+      "_id": "a3ea73d20e5742b76d20a88f",
+      "name": "Heavy Duty Packaging Tape (3-inch x 65m)",
+      "sku": "PKG-TAPE-3IN",
+      "category": "Packaging",
+      "price": 120,
+      "costPrice": 65,
+      "quantity": 28,
+      "minThreshold": 10,
+      "supplier": "3M Industrial Supply",
+      "description": "Strong adhesion brown parcel sealing tape",
+      "createdAt": "2026-10-24T09:43:56.436Z",
+      "updatedAt": "2026-10-24T16:43:56.436Z"
+    },
+    {
+      "_id": "5f34f42f97e2a64e0b5e3354",
+      "name": "Bubble Wrap Protective Roll (50m)",
+      "sku": "PKG-BBL-50M",
+      "category": "Packaging",
+      "price": 550,
+      "costPrice": 320,
+      "quantity": 1,
+      "minThreshold": 4,
+      "supplier": "Prime Packaging Materials",
+      "description": "Dual layer air bubble roll for fragile goods shipping",
+      "createdAt": "2026-10-24T08:43:56.436Z",
+      "updatedAt": "2026-10-24T16:43:56.436Z"
+    },
+    {
+      "_id": "a6eee26db2d023a7144d32c3",
+      "name": "Ergonomic Mesh High-Back Desk Chair",
+      "sku": "FUR-CHR-MESH",
+      "category": "Furniture",
+      "price": 6499,
+      "costPrice": 4200,
+      "quantity": 7,
+      "minThreshold": 3,
+      "supplier": "Green Soul Seating",
+      "description": "Breathable mesh chair with adjustable lumbar support",
+      "createdAt": "2026-10-24T07:43:56.436Z",
+      "updatedAt": "2026-10-24T16:43:56.436Z"
+    }
+  ],
+  "sales": [
+    {
+      "_id": "7755f8025e0469cb056f35de",
+      "saleNumber": "INV-921835-501",
+      "items": [
+        {
+          "productId": "c42e6d1ca2e819e7454d4558",
+          "productName": "Persistence Verification Widget",
+          "sku": "PERSIST-TEST-100",
+          "quantity": 3,
+          "unitPrice": 1599,
+          "total": 4797
+        }
+      ],
+      "totalAmount": 4797,
+      "customerName": "Persistence Auditor",
+      "paymentMethod": "Credit Card",
+      "notes": "Testing data integrity across reboot",
+      "saleDate": "2026-10-24T17:12:01.836Z",
+      "createdAt": "2026-10-24T17:12:01.836Z"
+    },
+    {
+      "_id": "cf25a41bfd7e2ec28de4e199",
+      "saleNumber": "INV-252086-217",
+      "items": [
+        {
+          "productId": "de1bef70e857207cc6d59cd6",
+          "productName": "Wireless Bluetooth Headset 5.3",
+          "sku": "HEAD-BT-999",
+          "quantity": 2,
+          "unitPrice": 2699,
+          "total": 5398
+        }
+      ],
+      "totalAmount": 5398,
+      "customerName": "Aarav Sharma",
+      "paymentMethod": "UPI",
+      "notes": "Test sale verification",
+      "saleDate": "2026-10-24T16:44:12.087Z",
+      "createdAt": "2026-10-24T16:44:12.087Z"
+    }
+  ],
+  "categories": [
+    "Electronics",
+    "Stationery",
+    "Beverages",
+    "Packaging",
+    "Furniture"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "smart-inventory-system",
+  "version": "1.0.0",
+  "description": "Smart Inventory System for Small Businesses - Full Stack MERN Project",
+  "scripts": {
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && node --watch server.js",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
